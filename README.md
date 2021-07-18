@@ -1,2 +1,2 @@
 # fileupload-processbarCSS
-try css process bar when upload something
+just learn and try about css of process bar when upload something
